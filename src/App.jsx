@@ -1,4 +1,4 @@
-
+return <div style={{color: "red"}}>畫面正常</div>;
 import React, { useState } from "react";
 
 export default function App() {
